@@ -49,6 +49,12 @@ html, body {
     text-align: center;
     font-size: 1rem;
 }
+.jumbotron li {
+    list-style: none;
+}
+.jumbotron p {
+    float: left;
+}
 .padding {
     padding-bottom: 2rem;
 }
